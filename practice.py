@@ -1,3 +1,2 @@
-def hello_print(name,country):
-	print(f"Hello {name} from {country}!")
-
+def hello(name,country):
+	print("Hello !, My name is {name} from {country} nice to meet you!")
